@@ -6,9 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prasanth90/node-parkit.git"
+  },
   "author": "prasanthaj",
   "license": "ISC",
   "dependencies": {
+    "winston" : "^2.2.0",
     "body-parser": "^1.15.0",
     "cookie-parser": "^1.4.1",
     "express": "^4.13.4",
